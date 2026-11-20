@@ -1,0 +1,9 @@
+{
+    "driverId": "drawdy.split",
+    "driverName": "Split",
+    "driverVersion": "1.0.0",
+    "description": "A cut tool for your board. Drag a line across images, text and rectangles and release to cut each one in two: images are cropped into two pieces, text is split between its lines, and rectangles become two rectangles.",
+    "icon": "icon.svg",
+    "main": "main.js",
+    "permissions": ["scene"]
+}
